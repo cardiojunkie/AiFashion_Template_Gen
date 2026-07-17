@@ -1,0 +1,1 @@
+"""Catalog Enrichment Studio backend."""
