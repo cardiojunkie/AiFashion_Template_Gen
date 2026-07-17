@@ -1,1 +1,0 @@
-# AiFashion_Template_Gen
